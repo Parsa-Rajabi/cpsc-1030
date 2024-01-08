@@ -6,7 +6,7 @@ All lecture slides are password protected. Visit D2L Brightspace to get the pass
 
 | **Wk#** 	| **Date** 	|                      **Topic**                     	| **Lecture Notes** 	|
 |:-------:	|:--------:	|:--------------------------------------------------:	|:-----------------:	|
-|    1    	|  Jan. 6  	|               Syllabus + Introduction              	|   [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoid3plN3NRaHVWU3d3b3hia2lVaFZKSE13bitMVm1EZk1oaWZjNGZtZERDMDQ0RmRRekN3S29Bc2czMjNTam16ZjJ3SjBmL2NaRjVUWjg2eTFHTStTU3lzYkhlYjJ5U3BSRXArZGlOSnBRQlZ2ZGsvNDVRYS9yYSt3ait2NENjdFZ0ekJ0SFYvVDIyeFRJOXVQTkF6K1h5UldZYzA9IiwicyI6IkZjMWhnRTdZNkZFWitsaGJBZ20yeGc9PSIsImkiOiJsT2E5Z2RnamhQbjI0cFpFIn0=)                	|
+|    1    	|  Jan. 8  	|               Syllabus + Introduction              	|   Slides                	|
 
 
 <!-- |    2    	|  Jan. 13 	|              Introduction, Git/Github              	|                   	|

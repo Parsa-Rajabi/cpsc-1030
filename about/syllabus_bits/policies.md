@@ -50,9 +50,9 @@ If you have any questions about how academic integrity applies to this course, p
 
 Marks on assignments and exams are based on merit and the quality of a student’s academic work and are non-negotiable. Personal circumstances are not a factor in determining a mark or final course grade. Do not approach your instructor at any time to negotiate a mark or final grade, based on personal reasons. If personal circumstances are effecting your ability to satisfactorily complete your academic work, please seek help early from support services on campus. Information about services is available on line at (https://langara.ca/student-services/index.html). International students can go to the International Education Office, Room A107.
 
-## Concerns about Instruction
+<!-- ## Concerns about Instruction
 
-[F1002 - Concerns about Instruction](https://langara.ca/about-langara/policies/pdf/F1002.pdf)
+[F1002 - Concerns about Instruction](https://langara.ca/about-langara/policies/pdf/F1002.pdf) -->
 
 ## Withdraw from Courses and Deferred Standing
 
