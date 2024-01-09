@@ -19,7 +19,7 @@ Below is the official Langara-mandated Course Syllabus for {{ COURSE_CODE }}.
 As [Langara's course schedule](https://swing.langara.bc.ca/prod/hzgkfcls.P_GetCrseBySubj?term=202410&subj=CPSC), this course is split into 2 lectures and a lab:
 
 - 2 hour online (asynchronous), No specific time
-- 4 hour lab section in B018, Mondays and Tuesdays 6:30-8:20 pm PST
+- 4 hour lab section in B019, Mondays and Tuesdays 6:30-8:20 pm PST
 
 ---
 ## Course Instructor
