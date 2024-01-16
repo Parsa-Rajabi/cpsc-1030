@@ -62,10 +62,26 @@ Web Development & Design Foundations With HTML5, 10th edition, by Felk Morris, I
 
 ## Course Evaluation
 
-TBA
+```{include} syllabus_bits/grading_practices_detailed.md
+```
 
-<!-- ```{include} syllabus_bits/grading_practices_detailed.md
-``` -->
+### Course Attendance Policy
+
+Attendance is a vital component of this course and is directly linked to your participation grade. Students are expected to attend every lecture to fully engage with the course material and contribute to class discussions. Your presence and active participation are crucial for a comprehensive learning experience.
+
+#### Attendance Guidelines:
+
+**Mandatory Attendance:** Regular attendance is expected for all lectures. Participation in each lecture contributes to your overall participation grade.
+
+**Allowance for Absences:** Recognizing the need for flexibility, each student is permitted to miss up to four lectures during the course without impacting their participation grade. These absences do not require justification and are intended to accommodate unforeseen circumstances, such as illness or personal emergencies.
+
+**Exceeding Absence Limit:** If a student misses more than 4 lectures, they will receive a score of 0 for the participation component of their grade. This policy is in place to ensure fairness and to emphasize the importance of consistent attendance.
+
+**Responsibility to Catch Up:** Students who miss a lecture are responsible for obtaining the missed material and notes from their peers or the course resources. It is advisable to stay informed about what was covered during the absence to keep up with the course progression.
+
+**Communication of Absences:** While the four allowed absences do not require formal notification, I encourage students to communicate any extended absences or special circumstances to the instructor as soon as possible.
+
+**Special Considerations:** Exceptions to this policy may be considered on a case-by-case basis for serious and documented reasons, such as medical emergencies or significant personal issues. Students seeking an exception should contact the instructor directly with relevant documentation to discuss their situation.
 
 <!-- ![Grade Letters](../images/grade_letters.png) -->
 
@@ -98,10 +114,9 @@ Each student may submit one remarking request for the term.
 
 ## Late Policy and Missed Assignments/Exams
 
-TBA
+Assignments and labs can be submitted up to 24 hours after the due date with 10% late penalty. No submissions will be accepted after 24 hours. 
 
-<!-- Assignments can be submitted up to 48 hours after the due date with 10% late penalty for every 24 hours. No submissions will be accepted after 48 hours. 
-Missed project deadlines (reports, presentations, etc.), quizzes and exams will be given a score of 0 unless prior arrangements are made with the course instructor. -->
+Missed quizzes and final project/exam will be given a score of 0 unless prior arrangements are made with the course instructor.
 
 <!-- ## Tentative Course Schedule
 
