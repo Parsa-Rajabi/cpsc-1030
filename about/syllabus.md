@@ -116,7 +116,7 @@ Each student may submit one remarking request for the term.
 
 Assignments and labs can be submitted up to 24 hours after the due date with 10% late penalty. No submissions will be accepted after 24 hours. 
 
-Missed quizzes, projects and final project/exam will be given a score of 0 unless prior arrangements are made with the course instructor.
+Missed exams, quizzes, projects and final project/exam will be given a score of 0 unless prior arrangements are made with the course instructor.
 
 <!-- ## Tentative Course Schedule
 
