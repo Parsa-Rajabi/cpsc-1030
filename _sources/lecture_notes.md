@@ -7,10 +7,8 @@ All lecture slides are password protected. Visit D2L Brightspace to get the pass
 | **Wk#** 	| **Date** 	|                      **Topic**                     	| **Lecture Notes** 	|
 |:-------:	|:--------:	|:--------------------------------------------------:	|:-----------------:	|
 |    1    	|  Jan. 8  	|               Syllabus + Introduction              	|   [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQUgwRnNnQ1JJYXArbGtTbWxKT0d0N3RoNEdGaytZT0NrSXB3YkFMYlNZd0g5TXdoTjZhVC8zV1FNMGdEb0pHUHkydk1jRDZqLzF0WnhLVkk0SkRqcnVXdHMrRm45SXovMXhVa1Q4UTV4c1c5YTFaakVwZ3RQc2dpUS9BQkhpOFJDVHROS2FJODFYYTF3T2U3dXpDSDczMFR5ZjQ9IiwicyI6InlQOHRNekw4WnhXZzVjdDVaTFlVZUE9PSIsImkiOiJSVzFNTk45ZWF5ZTg2U0Q2In0=)                	|
-
-
-<!-- |    2    	|  Jan. 13 	|              Introduction, Git/Github              	|                   	|
-|    3    	|  Jan. 20 	|                        SDLC                        	|                   	|
+|    2    	|  Jan. 15 	|              Intro to WWW              	|     [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZUhrZDlNNXNiWTdJc2VJOU1qK3J2azNvN2FvYzU4eGpZeXNPZGQ1UlZoZ2JoU2w5SFJBZ2ZDTlkxblRxNXlkcHdEUzk2VExtaTJjN0k1c2ZYUXNYTHRwSDFxbHIzNWFZSXZSeWxKS25jVW15QUJmZXhyWFQrL2NXSzRkRW1aREo5WTFsS0RsRUJncktLbUxvUUhRVlJudTZ3UVk9IiwicyI6IkNtOW0rMUVlUllyMkVaQ2MyanRmbVE9PSIsImkiOiJieCtHMnB6Y0U4dml5dTBDIn0=)              	|
+<!-- |    3    	|  Jan. 20 	|                        SDLC                        	|                   	|
 |    4    	|  Jan. 27 	|                 Project Management                 	|                   	|
 |    5    	|  Feb. 3  	|              Application Architecture              	|                   	|
 |    6    	|  Feb. 10 	|                 Application Design                 	|                   	|
