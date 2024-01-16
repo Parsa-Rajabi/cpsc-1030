@@ -5,7 +5,7 @@ The grading scheme for this course is:
 |  Participation  |     5%     |
 |      Labs       |    10%     |
 |   Assignments   |    15%     |
-|  Mini-projects  |    15%     |
+|    Projects     |    15%     |
 |     Quizzes     |    25%     |
 | Final Component |    30%     |
 
