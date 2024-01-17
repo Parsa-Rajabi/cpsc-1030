@@ -16,6 +16,7 @@ parts:
 - caption: Course Content
   chapters:
   - file: lecture_notes
+  - file: labs
 #    title: Week 1
 #    sections:
 #      - file: class/week1/readings
