@@ -33,7 +33,7 @@ Assignments and labs can be submitted up to 24 hours after the due date with 10%
         - Current Date/Time (this must match your system's date/time)
 
 ```{attention} 
-Screenshot submissions without a note that includes the information above will recieve a 50% mark deduction. Failure to submit a screenshot to Blackboard will result in a mark of zero. No exceptions.
+Screenshot submissions without a note that includes the information above will recieve a 50% mark deduction. Failure to submit a screenshot to Brightspace will result in a mark of zero. No exceptions.
 ```
 ### Example Screenshot
 
@@ -45,7 +45,7 @@ Here's how to capture a screenshot on [Windows](https://www.wikihow.com/Take-a-S
 
 ### D2L Brightspace Submission
 
-Here are the steps to submit your screenshot to Blackboard:
+Here are the steps to submit your screenshot to Brightspace:
 
 1. Go to Langara D2L Brightspace
 2. Navigate to CPSC 1030 Course
