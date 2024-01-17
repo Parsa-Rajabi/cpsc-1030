@@ -14,7 +14,7 @@ Use the following information to access your personal server:
 host: mylinux.langara.bc.ca
 port: 22
 protocol: sftp
-login: (your student id)
+login: (your computer id - the first part of your email address before the @)
 password: (your password)
 ```
 
