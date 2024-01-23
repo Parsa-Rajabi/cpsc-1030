@@ -16,6 +16,8 @@ parts:
 - caption: Course Content
   chapters:
   - file: lecture_notes
+  - url: https://github.com/Parsa-Rajabi/cpsc-1030/tree/main/demo
+    title: In-class code examples
   - file: labs
 #    title: Week 1
 #    sections:
