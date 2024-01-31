@@ -21,7 +21,7 @@ Projects can NOT be submitted late. Failure to submit a project will result in a
 ## Get Started
 - Go to [freeCodeCamp](https://www.freecodecamp.org/) and sign up for an account
   - You must use your stuednt `@mylangara.ca` email account to sign up
-- Once you have signed up, you can start working on the projects
+- Once you have signed up, you can start working on the projects by visiting the [Responsive Web Design page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## Schedule 
 
