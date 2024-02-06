@@ -1,0 +1,11 @@
+/* This is the style sheet for week 5 html file */
+
+/* syntax for adding CSS style as external */
+/* HTML selector {
+    property: value;
+}
+    */
+
+p {
+    background-color: red;
+}
