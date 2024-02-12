@@ -15,7 +15,7 @@ All in-class code examples can be found on [this page](https://github.com/Parsa-
 | 3 | Jan. 22 | Intro to HTML | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRlZWc2hsOFVhUXNxNUpyUVFicWNCd3JzTGNQa1ZSbDRVdUlWNE9hMkRkRHg5UWtaTkhubHBWUGgyTDAwUldxUVZNR200bUtsRTgyZDNUQndmMC9nMUxoVVFoUHJDRG9jV1lOMWdHRDI3Smx0YlBuT0o0TGlzNXA4MzZSZWJ3elVLaGFTNlhNb3NrM09MRmRYSlo4SDRVZFVnbUk9IiwicyI6Ijh1MUczeGNqbDU1T3FTN2pyU0NjZ3c9PSIsImkiOiJBcU1JT2tWZXY4TFFLRDYxIn0=) |
 | 4 | Jan. 29 | Quiz 1 |  |
 | 5 | Feb. 5 | CSS Basics | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiOU5KYWJVUERBN0w3ODNjRTVHOHA4dC93aFVtK2xOaVl0c0xWcDRoTDFEMmVsNDdjVzE3N00rcUNTNlhwN09HdktrR1MxdzdORVRibkllZlJlQXhsM0tZWTh2SWcvY2h2UC90VTFzRTcyQ0E4dTlQcGtKSkwzc2xqR1RIY3RsN2xGS0RKRmg0WkhWWFVoRXZWdE12ZGkybXk5a2c9IiwicyI6IjJMZytCWXZXTGQzbFcvTmJlWDlHYkE9PSIsImkiOiJTWGVCNXZLSkZLRTY3d1pOIn0=)  |
-| 6 | Feb. 12 | CSS IDs & Classes |  |
+| 6 | Feb. 12 | CSS IDs & Classes | [Slides](https://strieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMmo5aldMdytoa3ZsTXUyT2RUMktFMCtDYklyWWx6c2JDQk1VV2ZtUitmbTBjMXlXdXp4RzRKT0NLQzlyaU45TEVhK2pzL1ZiQ28xc2pGUkVOL3dQNzloVnAyVHkvTnNGSzFtYUtTaUY3Y0F4YjdEaG5OSTNVL3lQTTNYdk9oWGFjZ3h2YjZaakF0cFhSMzkwVHNYQjBScURoSlU9IiwicyI6InpsMFF4ZW1CMXI1Z2ZaaURMNVlrQ3c9PSIsImkiOiJ1V05pcUdJVDlUczUrN1lLIn0=) |
 | _7_ | _Feb. 19_ | _Reading Break_ | _-_ |
 | 8 | Feb. 24 | Advance CSS, Box Layout |  |
 | 9 | Mar. 3 | Quiz 2 (tentative) |  |
