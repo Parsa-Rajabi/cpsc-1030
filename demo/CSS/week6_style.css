@@ -1,0 +1,26 @@
+/* This is the style sheet for week 5 html file */
+
+/* syntax for adding CSS style as external */
+/* HTML selector {
+    property: value;
+}
+    */
+
+p {
+
+}
+
+/* Example with CSS Class */
+.orange-text {
+    color:orange;
+}
+
+/* Example with CSS ID */
+#background-blue {
+    background-color: lightblue;
+}
+
+/* Example with CSS Descendent */
+ul li {
+    font-style: italic;
+}
