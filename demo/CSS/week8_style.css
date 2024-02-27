@@ -1,0 +1,38 @@
+/* Selector for everything on our website */
+* {
+    background-color: lightcoral;
+}
+
+#puppy-img {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}
+
+#puppy-img-alt {
+    width: 500px;
+    opacity: 0.75;
+    border-radius: 50px 25px;
+}
+
+#linearGradient {
+    height: 350px;
+    background-color: lightcyan;
+    background-image: linear-gradient(to right, orange,purple, pink);
+    /* Reference, used to determine direction for gradient: https://www.w3schools.com/css/css3_gradients.asp */
+}
+
+#radialGradient {
+    height: 350px;
+    width: 550px;
+    background-color: green;
+    background-image: radial-gradient(black,green, blue, red);
+    /* Reference: https://www.w3schools.com/css/css3_gradients_radial.asp */
+}
+
+#conicGradient {
+    height: 350px;
+    width: 550px;
+    background-color: purple;
+    background-image: conic-gradient(purple 45deg, rgb(214, 190, 95) 90deg, grey 200deg);
+}
